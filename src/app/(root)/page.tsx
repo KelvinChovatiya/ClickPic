@@ -1,5 +1,5 @@
 import React from 'react'
-import { Show, SignInButton, } from "@clerk/nextjs";
+import { Show, SignInButton } from "@clerk/nextjs";
 
 
 function Home() {
